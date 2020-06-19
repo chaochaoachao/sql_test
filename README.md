@@ -10,7 +10,11 @@ Using SQLite in the python jupyter notebook.
 Solving the problems with both sqlite and pandas modules. 
 
 Make visualizations using matplotlib and seaborn.
-![revenue vs time](https://github.com/chaochaoachao/sql_test/blob/master/clusters.png)
+![revenue vs time](https://github.com/chaochaoachao/sql_test/blob/master/revenue%20vs%20time.png)
+
+![newplot](https://github.com/chaochaoachao/sql_test/blob/master/newplot.png)
+
+![brand revenue](https://github.com/chaochaoachao/sql_test/blob/master/brand%20revenue.png)
 
 
 In addtion, make 3D clustering for customer segmentation, provide insights to support business decisions.
